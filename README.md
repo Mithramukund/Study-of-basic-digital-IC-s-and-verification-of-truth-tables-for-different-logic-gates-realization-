@@ -78,7 +78,6 @@ nor(y7,a,b);
 endmodule
 ```
 
-
 ## Logic symbol & Truthtable
 ![Screenshot 2023-04-06 123003](https://user-images.githubusercontent.com/112475766/230299904-3aaa3495-1e95-4c88-9456-e7c5dabcfb86.png)
 
